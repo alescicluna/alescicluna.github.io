@@ -1,11 +1,11 @@
-title: Alessandro Scicluna # your name (or website title) here
-logo: "/images/Alessandro-Scicluna.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: Alessandro Scicluna
+logo: "/images/Alessandro-Scicluna.png?raw=true"
+description: >
   Here you can find some of my ML projects!
   <br><br>
-  <a href="https://www.linkedin.com/in/alessandroscicluna/">My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/alessandroscicluna/">LinkedIn</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: G-4N3XBLKKP8 # your Google Analytics tracking ID here
+google_analytics: G-4N3XBLKKP8
