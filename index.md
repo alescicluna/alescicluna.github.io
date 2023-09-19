@@ -4,7 +4,7 @@
 
 ### Highlighted: 
 
-[Rating_Score_Competition (sponsor: Credimi Bank)](/sample_page)
+[Rating Score Competition (sponsored by Credimi Bank)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
