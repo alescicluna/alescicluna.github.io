@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Highlighted: 
 
-[Project 1 Title](/sample_page)
+[Rating_Score_Competition (sponsor: Credimi Bank)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
