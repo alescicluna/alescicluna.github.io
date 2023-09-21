@@ -4,15 +4,15 @@
 
 ### Highlighted: 
 
-[project 1 Title](/sample_page)
+[Rating Score Competition (sponsored by Credimi Bank)](/sample_page)
 <img src="images/Rating_Score.png?raw=true"/>
 
 ---
-[Project 2 Title](/sample_page)
+[Rating Score Competition (sponsored by Credimi Bank)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](/sample_page)
+[Rating Score Competition (sponsored by Credimi Bank)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
