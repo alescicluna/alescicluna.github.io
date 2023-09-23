@@ -24,3 +24,6 @@ This project demonstrates my ability to use machine learning to solve real-world
 ###The challenges you faced, and the lessons you learned###
 
 [Link to the code repository](https://youtu.be/xvFZjo5PgG0)
+<a href="javascript:history.back()" class="text-green-600" style="weight: 5px; height: 3px; position: absolute; right: 20rem">
+  &#8592; Back
+</a>
