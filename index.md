@@ -31,6 +31,6 @@
 
 
 ---
-<a href="javascript:history.back()" class="text-green-600" style="position: absolute; right: 0;">
+<a href="javascript:history.back()" class="text-green-600" style="weight: 5px; height: 3px; position: absolute; right: 0;">
   &#8592; To back
 </a>
