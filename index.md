@@ -5,15 +5,15 @@
 ### Highlighted: 
 
 [Rating Score Competition (sponsored by Credimi Bank)](/sample_page_2)
-<img src="images/Rating_Score.png?raw=true"/>
+<img src="images/Rating_Score.png?raw=true" style="margin-top: 2px"/>
 
 ---
 [Rating Score Competition (sponsored by Credimi Bank)](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true" style="margin-top: 2px"/>
 
 ---
 [Project](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true" style="margin-top: 2px"/>
 
 ---
 
