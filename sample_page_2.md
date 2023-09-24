@@ -23,7 +23,7 @@ This project demonstrates my ability to use machine learning to solve real-world
 
 ###The challenges you faced, and the lessons you learned###
 
-[GitHub Repository]([https://youtu.be/xvFZjo5PgG0](https://github.com/alescicluna/Rating_Score_Competition_by_Credimi-Bank/blob/main/rating_score_final_github.ipynb))
+[GitHub Repository](https://github.com/alescicluna/Rating_Score_Competition_by_Credimi-Bank/blob/main/rating_score_final_github.ipynb)
 <a href="javascript:history.back()" class="text-green-600" style="weight: 5px; height: 3px; position: absolute; right: 20rem">
   &#8592; Back
 </a>
