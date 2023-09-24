@@ -15,7 +15,10 @@
 [Project](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true" style="margin-top: 3px"/>
 
+---
 
+### My 'now page'
+- [What I'm up to](/now_page)
 
 
 ---
