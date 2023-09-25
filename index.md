@@ -18,7 +18,7 @@
 ---
 
 ### My 'now page'
-- [What I'm up to](/now_page)
+- [What I'm up to](/now_page_)
 
 
 ---
