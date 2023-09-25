@@ -13,7 +13,7 @@
 
 ---
 [Project](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true" style="margin-top: 3px"/>
+<img src="Asteroids_Classification.png?raw=true" style="margin-top: 3px"/>
 
 ---
 
