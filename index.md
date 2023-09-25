@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true" style="margin-top: 3px"/>
 
 ---
-[Project](/sample_page)
+[Asteroids Classification Project](/sample_page)
 <img src="images/Asteroids_Classification.png?raw=true" style="margin-top: 3px"/>
 
 ---
