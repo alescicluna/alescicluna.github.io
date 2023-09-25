@@ -17,7 +17,7 @@
 
 ---
 
-### What am I focusing on?
+### What am I focusing on
 - [My 'now page'](/now_page_)
 
 
