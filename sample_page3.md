@@ -1,31 +1,29 @@
-## This can be your internal website page / project page
+## Asteroids Classification: detecting NEOs (Near Earth Objects)
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Overview:** This project involved building a machine learning model to predict the creditworthiness for loan applicants. The model was trained on a historical dataset of loan applications, including features such as score accounting, revenues, ebitda, pfn-to-ebitda ratio, type of industry, and geographical area.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Methods:
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+The project mainly used two machine learning algorithms: random forests, and gradient boosting machines. 'score_accounting' and 'score_trend' have been binned. Since toward the end of the data preparation process, there were only two features left to impute, I decided to do so using not the median, but the median by the type of industry, in order to get a slightly better approximation.
+In training the models, cross-validation was always performed, as well as feature selection using algorithms such as RFECV and random search.
+The models were tested both with the original data (unbalanced dataset 15-85 per cent) and following undersampling at 35 and 45 per cent.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### 2. Results:
 
-### 2. Assess assumptions on which statistical inference will be based
+The best-performing model was a random forest algorithm, which achieved 96 per cent precision on the test set (the indicator of greatest interest to us), and 80 per cent recall. This means that the model is correct 96% of the time when it says whether or not the client has the appropriate characteristics to receive financing.
+Specifically, the model was trained on the dataset on which 45 percent undersampling was performed, and without a feature selection following the preparation phase. (i.e., RFECV and random search did not allow for better generalization with this dataset.)
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### 3. Impact:
 
-### 3. Support the selection of appropriate statistical tools and techniques
+This project has the potential to help Credimi Bank make more informed decisions about which loan applicants to approve. By using the model to identify high-risk borrowers, they can reduce their risk of losses, improve their overall profitability and reputation.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### 4. Conclusion:
 
-### 4. Provide a basis for further data collection through surveys or experiments
+This project demonstrates my ability to use machine learning to solve real-world problems, as well as compare my current level of knowledge with other aspiring data scientists. I am confident that the skills and experience I gained from this project will be valuable to future employers.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+###The challenges you faced, and the lessons you learned###
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[GitHub Repository](https://github.com/alescicluna/Asteroids-Classification-Project)
+<a href="javascript:history.back()" class="text-green-600" style="weight: 5px; height: 3px; position: absolute; right: 20rem">
+  &#8592; Back
+</a>
