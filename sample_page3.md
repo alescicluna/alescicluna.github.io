@@ -9,8 +9,8 @@ In training the models, cross-validation and robust scalers was performed, as we
 
 ### 2. Results:
 
-The best-performing model was a random forest algorithm, which achieved 96 per cent precision on the test set (the indicator of greatest interest to us), and 80 per cent recall. This means that the model is correct 96% of the time when it says whether or not the client has the appropriate characteristics to receive financing.
-Specifically, the model was trained on the dataset on which 45 percent undersampling was performed, and without a feature selection following the preparation phase. (i.e., RFECV and random search did not allow for better generalization with this dataset.)
+The best algorithm and the one with the most balanced results was, in general, Random Forest, which had the best results together with the dataset with less hyperparameters. This was a valuable model to limitate false negatives, even at the price of having very high false positives.
+It achieved 99 per cent recall on the test set (the indicator of greatest interest to us). This means that the model is correct 99% of the time of not missing out any positive label. Specifically, the model was trained on the dataset with the least feature selection.
 
 ### 3. Impact:
 
