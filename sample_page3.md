@@ -1,12 +1,11 @@
 ## Asteroids Classification: detecting NEOs (Near Earth Objects)
 
-**Overview:** This project involved building a machine learning model to predict the creditworthiness for loan applicants. The model was trained on a historical dataset of loan applications, including features such as score accounting, revenues, ebitda, pfn-to-ebitda ratio, type of industry, and geographical area.
+**Overview:** This project involved building a machine learning model to predict whether a NEO (Near Earth Objects) can potentially hit the Earth. The model was trained on a historical dataset which includes more than four thousand different NEOs observed and analysed together with their respective data.
 
 ### 1. Methods:
 
-The project mainly used two machine learning algorithms: random forests, and gradient boosting machines. 'score_accounting' and 'score_trend' have been binned. Since toward the end of the data preparation process, there were only two features left to impute, I decided to do so using not the median, but the median by the type of industry, in order to get a slightly better approximation.
-In training the models, cross-validation was always performed, as well as feature selection using algorithms such as RFECV and random search.
-The models were tested both with the original data (unbalanced dataset 15-85 per cent) and following undersampling at 35 and 45 per cent.
+The project mainly used two machine learning algorithms: random forests, and gradient boosting machines (plus Logistic Regression as a baseline). We deleted reduntant features (e.g., 'Astronomical Units' or 'Epoch Date', which contained information already present in other features), those that contained only one value, as well as duplicates.
+In training the models, cross-validation and robust scalers was performed, as well as an 50 per cent undersampling test, since the target variable was unbalanced. 
 
 ### 2. Results:
 
@@ -15,11 +14,11 @@ Specifically, the model was trained on the dataset on which 45 percent undersamp
 
 ### 3. Impact:
 
-This project has the potential to help Credimi Bank make more informed decisions about which loan applicants to approve. By using the model to identify high-risk borrowers, they can reduce their risk of losses, improve their overall profitability and reputation.
+This project has the potential to help the space agency understand which variables to pay more attention to, as well as a continuous monitoring tool. By using the model to identify high-risk NEOs, we can reduce the risk of an impact between an asteroid and the Earth.
 
 ### 4. Conclusion:
 
-This project demonstrates my ability to use machine learning to solve real-world problems, as well as compare my current level of knowledge with other aspiring data scientists. I am confident that the skills and experience I gained from this project will be valuable to future employers.
+This project was my first test with the machine learning concepts studied during the year, together with my ability to lead a team of three. Looking back, I can say that it represented a fundamental piece of my learning.
 
 ###The challenges you faced, and the lessons you learned###
 
