@@ -22,7 +22,7 @@ This project was my first test with the machine learning concepts studied during
 
 ###The challenges you faced, and the lessons you learned###
 
-[GitHub Repository](https://github.com/alescicluna/Asteroids-Classification-Project)
+[GitHub Repository](https://github.com/alescicluna/Hack4SDS/blob/main/Hack4SDS(main).ipynb)
 <a href="javascript:history.back()" class="text-green-600" style="weight: 5px; height: 3px; position: absolute; right: 20rem">
   &#8592; Back
 </a>
