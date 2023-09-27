@@ -8,7 +8,7 @@
 <img src="images/Rating_Score.png?raw=true" style="margin-top: 3px"/>
 
 ---
-[Rating Score Competition (sponsored by Credimi Bank)](/sample_page)
+[Hack4SDS Competition: (CV screening algorithm)](/sample_page2)
 <img src="images/dummy_thumbnail.jpg?raw=true" style="margin-top: 3px"/>
 
 ---
