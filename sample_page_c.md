@@ -9,8 +9,7 @@ In training the models, cross-validation and robust scalers was performed.
 
 ### 2. Results:
 
-The best algorithm and the one with the most balanced results was, in general, Random Forest, which had the best results together with the dataset with less hyperparameters. This was a valuable model to limitate false negatives, even at the price of having very high false positives.
-It achieved 99 per cent recall on the test set (the indicator of greatest interest to us). This means that the model is correct 99% of the time of not missing out any positive label. Specifically, the model was trained on the dataset with the least feature selection.
+The best algorithm and the one with the most balanced results was, in general, Random Forest, which had the best results together with the dataset with less hyperparameters. ...
 
 ### 3. Impact:
 
