@@ -19,7 +19,6 @@ This project has the potential to help companies fine-tune their selection proce
 
 This project has been particularly important in my learning journey so far, as it has allowed me to hone my leadership and teamwork skills under stress.
 
--- ###The challenges you faced, and the lessons you learned###
 
 [GitHub Repository](https://github.com/alescicluna/Hack4SDS/blob/main/Hack4SDS(main).ipynb)
 <a href="javascript:history.back()" class="text-green-600" style="weight: 5px; height: 3px; position: absolute; right: 20rem">
