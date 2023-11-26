@@ -20,8 +20,6 @@ This project has the potential to help the space agency understand which variabl
 
 This project was my first test with the machine learning concepts studied during the year, together with my ability to lead a team of three. Looking back, I can say that it represented a fundamental piece of my learning.
 
-###The challenges you faced, and the lessons you learned###
-
 [GitHub Repository](https://github.com/alescicluna/Asteroids-Classification-Project)
 <a href="javascript:history.back()" class="text-green-600" style="weight: 5px; height: 3px; position: absolute; right: 20rem">
   &#8592; Back
