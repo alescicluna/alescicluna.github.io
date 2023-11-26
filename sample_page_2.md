@@ -21,7 +21,6 @@ This project has the potential to help Credimi Bank make more informed decisions
 
 This project demonstrates my ability to use machine learning to solve real-world problems, as well as compare my current level of knowledge with other aspiring data scientists. I am confident that the skills and experience I gained from this project will be valuable to future employers.
 
-###The challenges you faced, and the lessons you learned###
 
 [GitHub Repository](https://github.com/alescicluna/Rating_Score_Competition_by_Credimi-Bank/blob/main/rating_score_final_github.ipynb)
 <a href="javascript:history.back()" class="text-green-600" style="weight: 5px; height: 3px; position: absolute; right: 20rem">
