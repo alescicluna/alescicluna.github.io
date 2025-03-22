@@ -1,0 +1,18 @@
+CHANGING THE VISIBILITY TO = NONE
+
+
+
+
+Change the publishing source to None:
+
+    Navigate to your site's repository on GitHub
+
+    Click on Settings under your repository name
+
+    In the "Code and automation" section of the sidebar, click on Pages
+
+    Under "Build and deployment", select Deploy from a branch
+
+    Use the branch dropdown menu and select None as the publishing source
+
+    Click Save
